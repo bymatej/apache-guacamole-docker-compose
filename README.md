@@ -24,7 +24,7 @@ Guacamole will run on port 8090.
 
 ## Post-installation
 - change the default password and username
--- default username: `guacadmin`
--- default password: `guacadmin`
+- - default username: `guacadmin`
+- - default password: `guacadmin`
 - use a reverse-proxy to point to the guacamole app
 - Consult the documentation for further details: https://guacamole.apache.org/doc/gug/ 
